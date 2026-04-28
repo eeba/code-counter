@@ -50,7 +50,7 @@
 克隆仓库并安装前端依赖：
 
 ```bash
-git clone https://github.com/你的用户名/code-counter.git
+git clone https://github.com/eeba/code-counter.git
 cd code-counter
 npm install
 ```
@@ -94,7 +94,7 @@ npm run package:linux:aarch64
 - **底层引擎**: Rust, [Tauri v2](https://v2.tauri.app/)
 - **前端框架**: React 18, TypeScript, Vite
 - **UI 样式**: Tailwind CSS
-- **图表展示**: (如果你用了图表库如 Recharts/Echarts，可在此补充)
+- **图表展示**: Echarts
 
 ## 🤝 参与贡献
 
