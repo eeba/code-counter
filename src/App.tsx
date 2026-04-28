@@ -11,7 +11,7 @@ import { default_excludes } from "./exclude";
 import type { ScanResult } from "./types";
 
 const DEFAULT_EXCLUDES: string[] = default_excludes;
-const APP_VERSION = "1.10";
+const APP_VERSION = "1.0.0";
 
 type Theme = "light" | "dark" | "system";
 type View = "settings" | "results";
@@ -128,7 +128,7 @@ function App() {
             <line x1="16" y1="17" x2="8" y2="17"/>
             <polyline points="10,9 9,9 8,9"/>
           </svg>
-          <span className="text-sm font-medium" style={{ color: colors.text }}>代码统计</span>
+          <span className="text-sm font-medium" style={{ color: colors.text }}>源码统计</span>
           <span className="text-xs px-2 py-0.5 rounded" style={{ backgroundColor: colors.accent, color: '#ffffff' }}>v{APP_VERSION}</span>
           {view === "results" && (
             <>
