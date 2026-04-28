@@ -1,7 +1,7 @@
 [package]
 name = "code-counter"
 version = "0.1.0"
-description = "源码行数统计工具"
+description = "代码统计工具"
 authors = ["you"]
 license = ""
 repository = ""
