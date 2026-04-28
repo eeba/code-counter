@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="src-tauri/icons/icon.png" alt="源码统计 Logo" width="128" height="128" />
   <h1>源码统计 (Code Counter)</h1>
   <p>一个基于 Tauri + Rust + React 开发的极速跨平台源码统计工具 🚀</p>
 
