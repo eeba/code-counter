@@ -4,6 +4,7 @@
   <p>一个基于 Tauri + Rust + React 开发的极速跨平台源码统计工具 🚀</p>
 
   [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
   [![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey.svg)]()
   [![Built with Tauri](https://img.shields.io/badge/built%20with-Tauri-FFC131.svg)](https://tauri.app/)
   [![Built with Rust](https://img.shields.io/badge/built%20with-Rust-black.svg)](https://www.rust-lang.org/)
@@ -35,7 +36,11 @@
 
 ## 📸 界面预览
 
-*(你可以稍后在这里补充软件运行时的截图)*
+<div align="center">
+  <img src="screenshot/screenshot_1.png" alt="界面预览 1" width="800" />
+  <br />
+  <img src="screenshot/screenshot_2.png" alt="界面预览 2" width="800" />
+</div>
 
 ## 🚀 快速开始
 
@@ -108,4 +113,4 @@ npm run package:linux:aarch64
 
 ## 📄 开源协议
 
-本项目基于 [MIT License](LICENSE) 开源，你可以自由地使用、修改和分发。
+本项目基于 [Apache License 2.0](LICENSE) 开源，你可以自由地使用、修改和分发。
